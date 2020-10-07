@@ -129,6 +129,7 @@ img {
   margin-top: 20%;
 }
 
+
 @media screen and (max-width: 786px) {
   .banner {
     display: flex;
